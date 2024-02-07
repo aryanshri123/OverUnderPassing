@@ -11,4 +11,4 @@ Here is an example call of the predict function:
 
 <img width="539" alt="Screenshot 2024-02-07 at 11 31 27 AM" src="https://github.com/aryanshri123/OverUnderPassing/assets/153876046/3e6b8335-45a1-4acf-b842-fd33f66cab7d">
 
-Here, this correctly predicted that Brock Purdy would throw under 29.5 passes against Seattle in Week 14 @ home. 
+Here, this correctly predicted that Brock Purdy would throw under 29.5 passes against Seattle in Week 14 @ home. He threw 27.
