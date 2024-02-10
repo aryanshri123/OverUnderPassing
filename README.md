@@ -1,6 +1,5 @@
 # Overview
-I utilized the sportsdata.io and scikit-learn to predict whether a certain player would be over a certain number of passing attempts. I implemented a logistic regression because this is a binary classifier. 
-
+I utilized the sportsdata.io API and scikit-learn to predict whether a certain player would be over a certain number of passing attempts. I implemented a logistic regression model.
 # Highlights
 
 Here is a visualization of the weights of some of the most important features:
